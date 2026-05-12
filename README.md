@@ -14,9 +14,7 @@ Utilizei o Gemini para pesquisar e categorizar as melhores IAs do mercado entre 
 ## Resultados
 O e-book apresenta um conteúdo prático e direto, servindo como um manual de consulta rápida para gestores que buscam integrar IA em áreas como relatórios, design, vídeo e desenvolvimento.
 
-## [Clique aqui para acessar o E-book](https://github.com/brunagai/lab-natty-or-not/blob/main/E-book%20IAS.pdf)
-
-[LINK PARA O E-BOOK AQUI](COLOQUE_O_LINK_DO_SEU_ARQUIVO_AQUI)
+[LINK PARA O E-BOOK AQUI](https://github.com/brunagai/lab-natty-or-not/blob/main/E-book%20IAS.pdf)
 
 ## 💭 Reflexão
 Construir este guia mostrou como a escolha da IA certa pode democratizar o acesso à tecnologia de ponta, permitindo que pequenas empresas compitam em nível de eficiência com grandes corporações.
