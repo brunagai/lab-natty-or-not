@@ -16,5 +16,5 @@ O e-book apresenta um conteúdo prático e direto, servindo como um manual de co
 
 [LINK PARA O E-BOOK AQUI](https://github.com/brunagai/lab-natty-or-not/blob/main/E-book%20IAS.pdf)
 
-## 💭 Reflexão
+## Reflexão
 Construir este guia mostrou como a escolha da IA certa pode democratizar o acesso à tecnologia de ponta, permitindo que pequenas empresas compitam em nível de eficiência com grandes corporações.
